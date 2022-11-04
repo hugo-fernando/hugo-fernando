@@ -7,5 +7,5 @@
 hugo-fernando/hugo-fernando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![tropa do HG](https://i.scdn.co/image/ab67616100005174a5c6b3cf95152d7c9c0d6ab5)
+![tropa do HG](https://cdn.brasildefato.com.br/media/c09820080318eb12be9870b48077ca7f.jpg)
 !JOTAP NA VEIA
